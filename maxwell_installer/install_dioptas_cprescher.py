@@ -13,7 +13,7 @@ Type=Application
 Terminal=false
 Exec=/gpfs/exfel/exp/HED/202102/p002605/usr/Software/dioptas/Dioptas
 Name=Original Dioptas
-Icon=/gpfs/exfel/exp/HED/202102/p002605/usr/Software/dioptas/resources/icons/icon.png
+Icon=/gpfs/exfel/exp/HED/202102/p002605/usr/Software/dioptas/dioptas/resources/icons/icon.png
 Categories=Science;
         """
 
